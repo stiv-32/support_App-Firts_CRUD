@@ -14,7 +14,7 @@ import Proyect.Backend_SupportApp.repository.Repository;
 
 
 @RestController
-public class controll {
+public class controlPersona {
     
     @Autowired
     private Repository repository;
